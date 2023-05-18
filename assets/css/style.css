@@ -14,10 +14,46 @@ nav h1{
     padding-left: 10px;
     vertical-align: bottom;
 }
+/* SECCION NOSOTROS */
 #about-us h1 {
     font-weight: 100;
     font-size: 25px;
 }
 #about-us p {
     text-align: left;
+}
+/* SECCION DESTACADOS */
+#destacados h1 {
+    font-weight: 100;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+#destacados .img-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/* SECCION CONTACTO */
+#contact h1 {
+    font-weight: 100;
+    font-size: 25px;
+}
+#contact .d-grid .btn-color {
+    background-color: #17A2B8;
+    width: 105px;
+}
+/* FOOTER*/
+footer {
+    background-color: #17A2B8;
+}
+footer h1 {
+    font-weight: 100;
+    font-size: 25px;
+}
+footer i {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
 }

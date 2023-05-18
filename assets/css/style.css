@@ -1,0 +1,23 @@
+/* BODY */
+body {
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+/* NAVBAR */
+nav img{
+    height: 40px;
+    width: 40px;
+}
+nav h1{
+    font-size: 30px;
+    font-weight: 300;
+    padding-left: 10px;
+    vertical-align: bottom;
+}
+#about-us h1 {
+    font-weight: 100;
+    font-size: 25px;
+}
+#about-us p {
+    text-align: left;
+}
